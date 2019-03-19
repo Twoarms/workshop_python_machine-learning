@@ -1,5 +1,24 @@
 # Introduction à Python et au Machine Learning au travers d'un simple projet de classification d'image
 
+## Infos
+
+### Description
+
+Workshop d'introduction à Python et au Machine Learning réalisé dans le cadre de la formation BeCode.
+Realisé et animé par Mathieu Debras, aka Twoarms (BeCode Charleroi, Turing 2)
+
+### Pré-requis
+
+Un compte Google et une connexion internet : Nous utiliserons Google Colab, un environnement [Jupyter notebook](https://jupyter.org/) ne nécessitant aucune configuration et qui s'exécute dans le cloud. Cela permettra à tout le monde de participer à ce workshop dans les meilleures conditions, sans perte de temps pour l'installation et la configuration des outils.
+
+### Déroulement
+
+Ce workshop sera divisé en deux parties distinctes.
+
+La première concerne l'introduction à Python, avec des exercices pour découvrir les bases de la programmation dans ce langage.
+
+La deuxième sera donc bien évidemment l'introduction au Machine Learning.
+
 ## Python
 
 ### Qu'est-ce que Python ?
