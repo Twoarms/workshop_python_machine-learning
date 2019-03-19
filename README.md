@@ -3,15 +3,15 @@
 ## Sommaire
 
 1.[Infos](#infos)
-    1.[Description](#description)
-    2.[Pré-requis](#pré-requis)
-    3.[Déroulement](#déroulement)
+ 1.[Description](#description)
+ 2.[Pré-requis](#pré-requis)
+ 3.[Déroulement](#déroulement)
 2.[Python](#python)
-    1.[Qu'est-ce que Python ?](#qu'est-ce-que-python-?)
-    2.[Introduction à Python](#introduction-à-python)
+ 1.[Qu'est-ce que Python ?](#qu'est-ce-que-python-?)
+ 2.[Introduction à Python](#introduction-à-python)
 3.[Machine Learning](#machine-learning)
-    1.[Qu'est-ce que le Machine Learning ?](#qu'est-ce-que-le-machine-learning-?)
-    2.[Introduction au Machine Learning](#introduction-au-machine-learning)
+ 1.[Qu'est-ce que le Machine Learning ?](#qu'est-ce-que-le-machine-learning-?)
+ 2.[Introduction au Machine Learning](#introduction-au-machine-learning)
 
 ---
 ## Infos
