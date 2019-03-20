@@ -45,7 +45,7 @@ Il permet de faire virtuellement n'importe quoi : Du scripting, des jeux, des lo
 
 ### Introduction à Python
 
-[Parcours Python](./1_Python/README.md)
+[Parcours Python](./Parcours/1_Python/README.md)
 
 ## Machine Learning
 
@@ -57,4 +57,4 @@ Pour éclaircir un peu cela, je vais prendre l'exemple par lequel on va commence
 
 ### Introduction au Machine Learning
 
-[Parcours Machine Learning](./2_Machine_Learning/README.md)
+[Parcours Machine Learning](./Parcours/2_Machine_Learning/README.md)
