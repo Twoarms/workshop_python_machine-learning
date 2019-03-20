@@ -2,16 +2,16 @@
 
 ## Sommaire
 
-1. [Infos](#infos)
- 1. [Description](#description)
- 2. [Pré-requis](#pré-requis)
- 3. [Déroulement](#déroulement)
-2. [Python](#python)
- 1. [Qu'est-ce que Python ?](#qu'est-ce-que-python-?)
- 2. [Introduction à Python](#introduction-à-python)
-3. [Machine Learning](#machine-learning)
- 1. [Qu'est-ce que le Machine Learning ?](#qu'est-ce-que-le-machine-learning-?)
- 2. [Introduction au Machine Learning](#introduction-au-machine-learning)
+1. Infos
+    1. [Description](#description)
+    2. [Pré-requis](#pré-requis)
+    3. [Déroulement](#déroulement)
+2. Python
+    1. [Qu'est-ce que Python ?](#qu'est-ce-que-python-?)
+    2. [Introduction à Python](#introduction-à-python)
+3. Machine Learning
+    1. [Qu'est-ce que le Machine Learning ?](#qu'est-ce-que-le-machine-learning-?)
+    2. [Introduction au Machine Learning](#introduction-au-machine-learning)
 
 ---
 ## Infos
@@ -45,14 +45,16 @@ Il permet de faire virtuellement n'importe quoi : Du scripting, des jeux, des lo
 
 ### Introduction à Python
 
-....
+[Parcours Python](./1_Python/README.md)
 
 ## Machine Learning
 
-### Qu'est-ce que le Machine Learning
+### Qu'est-ce que le Machine Learning ?
 
-....
+Le machine learning est une catégorie d'algorithme qui permet de déterminer des outputs en fonctions de certains inputs pour une tâche donnée sans être explicitement programmé pour obtenir ces outputs spécifique. C'est à dire que l'algorithme va devoir être entrainé à produire ces outputs.
+
+Pour éclaircir un peu cela, je vais prendre l'exemple par lequel on va commencer pour comprendre comment fonctionne le machine learning. On peut entrainer un programme à convertir des degré celcius en degrés farenheit sans lui fournir l'équation qui permet cela (°f = °c*1.8 + 32). Cela n'a pas beucoup de sens puisqu'on connait déjà la formule, l'algorithme pour obtenir cet output, mais cela est une excellente introduction au fonctionnement de cette branche de l'intelligence artificielle.
 
 ### Introduction au Machine Learning
 
-....
+[Parcours Machine Learning](./2_Machine_Learning/README.md)
