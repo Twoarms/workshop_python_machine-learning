@@ -9,3 +9,5 @@ Problème de régression
 ### Classification d'image (Fashion MNIST)
 
 Problème de classification
+
+[Colab Classification d'image](https://colab.research.google.com/github/Twoarms/workshop_python_machine-learning/blob/master/Parcours/2_Machine_Learning/classification_image.ipynb)
