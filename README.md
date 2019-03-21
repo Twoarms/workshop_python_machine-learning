@@ -23,7 +23,7 @@ Realisé et animé par Mathieu Debras, aka Twoarms (BeCode Charleroi, Turing 2)
 
 ### Pré-requis
 
-Un compte Google et une connexion internet : Nous utiliserons Google Colab, un environnement [Jupyter notebook](https://jupyter.org/) ne nécessitant aucune configuration et qui s'exécute dans le cloud. Cela permettra à tout le monde de participer à ce workshop dans les meilleures conditions, sans perte de temps pour l'installation et la configuration des outils.
+Un compte Google et une connexion internet : Nous utiliserons Google Colab, un environnement [Jupyter notebook](https://jupyter.org/) ne nécessitant aucune configuration, qui s'exécute dans le cloud et qui met à disposition de la puissance GPU. Cela permettra à tout le monde de participer à ce workshop dans les meilleures conditions, sans perte de temps pour l'installation et la configuration des outils.
 
 ### Déroulement
 
