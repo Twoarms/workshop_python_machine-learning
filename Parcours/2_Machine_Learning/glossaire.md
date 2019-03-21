@@ -1,7 +1,7 @@
 ##### Batch (Lot) :
 Le set d'exemples utilisés lors de l'entrainement du modèle
 
-##### Bias :
+##### Bias (Biais) :
 Une des variables internes de notre modèle
 
 ##### Dense / Fully Connected (Dense, complètement connecté) :
@@ -19,7 +19,7 @@ Le(s) input(s) pour notre modèle
 ##### Fonction perte :
 Une manière de mesurer à quel point les prédictions sont éloignées du résultat attendu (la perte)
 
-##### Fonction optimiseur :
+##### Optimiseur :
 Une manière d'ajuster les valeur internes(cachées) pour diminuer la perte
 
 ##### Labels :
@@ -36,5 +36,5 @@ La marge d'ajustement des variables internes
 ##### Model (Modèle) :
 La représentation du réseau neuronal
 
-##### Weight :
+##### Weight (Poids) :
 Une des variables internes de notre modèle
